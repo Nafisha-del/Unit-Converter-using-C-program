@@ -1,0 +1,81 @@
+Select Your Preferred Conversion:
+1.Length
+          1.Meter to Kilometer
+          2.Kilometer to Mile
+          3.Meter to Foot
+          4.Kilometer to Yard
+          5.Feet to Inches
+2.Mass
+          1.Gram to Kilogram
+          2.Kilogram to Pound
+          3.Gram to Ounce
+          4.Gram to Ton
+          5.Ounce to Pound
+3.Time 
+          1.Day to Hour
+          2.Hour to Minute
+          3.Second to Millisecond
+          4.Minute to Second
+          5.Millisecond to Nanosecond
+4.Currency
+          1.USD to BDT
+          2.EUR to BDT
+          3.GBP to BDT
+          4.INR to BDT
+          5.SAR to BDT
+          6.BDT to USD
+          7.BDT to EUR
+          8.BDT to GBP
+          9.BDT to INR
+         10.BDT to SAR
+5.Temperature
+          1. Fahrenheit to Kelvin
+          2.Fahrenheit to Celsius
+          3. Celsius to Kelvin
+          4. Celsius to Fahrenheit
+          5.Kelvin to Fahrenheit
+          6.Kelvin to Celsius
+6.Pressure
+           1.atm to bar
+           2.atm to kpa
+           3.atm to millibar
+           4.atm to pascal
+           5.bar to atm
+           6.kpa to atm
+           7.millibar to atm
+           8.pascal to atm
+7.Power
+           1.Watt to HP
+           2.Ton to Watt
+           3.Calorie to Joule
+           4.HP to Watt
+           5.Watt to Ton
+           6.Joule to Calorie
+8.Energy
+           1.BTU to KJ
+           2.KWH to BTU
+           3.Watt to BTU/H
+           4.HP to Watt
+           5.Therm to BTU 
+           6.KJ to BTU
+           7.BTU to KWH
+           8.BTU/H to Watt
+           9.Watt to HP
+          10.BTU to Therm
+9.Area
+           1.Square meter to Hectare
+           2.Are to Hectare
+           3.Square meter to Square Kilometer
+           4.Square meter to Hectometer
+           5.Square meter to Square Millimeter
+           6.Hectare to Square meter
+           7.Hectare to Are
+           8.Square kilometer to Square meter
+           9.Hectometer to Square meter
+         10.Square Milimeter to Square meter
+10.Volume
+             1.Liter to Cubic meter
+             2.Cubic meter to Milliliter
+             3.Liter to Milliliter
+             4.Barrel to Liter
+             5.Liter to Gallon
